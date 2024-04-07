@@ -1,7 +1,7 @@
 # Terraform-Assignment-2
 Terraform Assignment 2
 
-**For the detailed solution to this assignment, visit this link:** _https://medium.com/devops-guides/create-an-ec2-instance-with-an-elastic-ip-address-terraform-assignment-2-85a5fcc5542b_
+**For the detailed solution to this assignment, click this link:** _https://medium.com/devops-guides/create-an-ec2-instance-with-an-elastic-ip-address-terraform-assignment-2-85a5fcc5542b_
 
 **Step 1:** Destroy the previous assignment resources using the command: terraform destroy
 
